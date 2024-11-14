@@ -8,6 +8,10 @@
 
 Deck’d Out
 
+## NOTE
+
+This repository is a team project from a Software Engineering class in Spring 2024. I contributed under my school account -- Johanna Mejias/ JoJo / jmejias
+
 ### Project Abstract
 
 <!--A one paragraph summary of what the software will do.-->
